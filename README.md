@@ -21,8 +21,8 @@ Or manually - as root:
 
      edit ding and change some options explained there, esp. the location
      of the dictionary file.
-   # % cp ding /your/bin/dir
-   # % cp de-en.txt /your/lib/dir
+   # cp ding /your/bin/dir
+   # cp de-en.txt /your/lib/dir
    
    after ding worterbuch installation go to where save de-tur.txt   and type 
    
