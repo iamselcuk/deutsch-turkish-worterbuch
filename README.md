@@ -1,4 +1,4 @@
-# deutsch-turkish-worterbuch
+# deutsch-turkish-worterbuch (24350 word)
 i edited this dictionary for program called `ding worterbuch`.
 
 you must install  ding 
