@@ -1,7 +1,8 @@
 # deutsch-turkish-worterbuch
-i edited this worterbuch for program called `ding worterbuch`.
+i edited this dictionary for program called `ding worterbuch`.
 
 you must install  ding 
+https://www-user.tu-chemnitz.de/~fri/ding/
 
 To install it on Linux (RPM based, such as Fedora, Red Hat, SuSE) - as root:
    # rpm -Uhv ding-1.8.1-1.noarch.rpm
@@ -13,8 +14,8 @@ Gentoo Linux:
 Arch Linux: 
    # pacman -S ding
 To install it on other Unix systems: 	
-   #  % gzip -dc ding-1.8.1.tar.gz | tar -xvf -
-   #  % cd ding-1.8.1
+   #  gzip -dc ding-1.8.1.tar.gz | tar -xvf -
+   #  cd ding-1.8.1
 To install simply run - as root:	
    # ./install.sh
 Or manually - as root:	
@@ -28,4 +29,4 @@ Or manually - as root:
    
    # cp '/home/...../Desktop/de-tur.txt' '/usr/local/bin
 
-whola ding  program preferences you can choose turkish worterbuch
+whola ding  program preferences you can choose turkish dictionary
