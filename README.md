@@ -3,13 +3,15 @@ i edited this worterbuch for program called `ding worterbuch`.
 
 you must install  ding 
 
-Installation
 To install it on Linux (RPM based, such as Fedora, Red Hat, SuSE) - as root:
    # rpm -Uhv ding-1.8.1-1.noarch.rpm
-Packages for other Linux systems:	
-Debian: # apt-get install ding trans-de-en
-Gentoo Linux: # emerge -v app-text/ding
-Arch Linux: # pacman -S ding
+Packages for other Linux systems	
+Debian:
+   # apt-get install ding trans-de-en
+Gentoo Linux: 
+   # emerge -v app-text/ding
+Arch Linux: 
+   # pacman -S ding
 To install it on other Unix systems: 	
    % gzip -dc ding-1.8.1.tar.gz | tar -xvf -
    % cd ding-1.8.1
