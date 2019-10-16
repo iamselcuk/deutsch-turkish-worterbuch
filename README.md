@@ -30,3 +30,8 @@ Or manually - as root:
    # cp '/home/...../Desktop/de-tur.txt' '/usr/local/bin
 
 whola ding  program preferences you can choose turkish dictionary
+
+i work for 7 days to edit word one by one
+turkler bos gecmeyin 
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](FEUMZDKL4LNGJ)
