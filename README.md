@@ -31,7 +31,6 @@ Or manually - as root:
 
 whola ding  program preferences you can choose turkish dictionary
 
-i work for 7 days to edit word one by one
-turkler bos gecmeyin 
+
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](YOUR_EMAIL_CODE)
